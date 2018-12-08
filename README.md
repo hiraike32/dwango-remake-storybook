@@ -1,4 +1,4 @@
-# storybook-static
+# dwango-remake-storybook
 
 [https://hiraike32.github.io/storybook-static/](https://hiraike32.github.io/dwango-remake-storybook/)
 
